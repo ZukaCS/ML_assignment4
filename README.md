@@ -15,6 +15,7 @@ Facial Expression Recognition (FER-2013) კონკურსის მიზ�
 
 ```
 ML_assignment4/
+├── img/                              ← სურათები readme-სთვის.
 ├── SmallCNN.ipynb                    ← Baseline 2 layer-იანი CNN
 ├── DeepCNN.ipynb                     ← 4 layer-იანი CNN
 ├── Deep_BN_DR_CNN.ipynb              ← 4 layer-იანი CNN, BatchNorm და Dropout-ით.
