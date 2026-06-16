@@ -1,5 +1,7 @@
 # ML_assignment4
 
+- **[WandB პროექტი](https://wandb.ai/zkeke23-free-university-of-tbilisi-/fer-challenge)**.
+
 ## კონკურსის მიმოხილვა
 
 Facial Expression Recognition (FER-2013) კონკურსის მიზანია ადამიანის სახის ემოციების ამოცნობა და კლასიფიკაცია 7 სხვადასხვა კატეგორიაში (Angry, Disgust, Fear, Happy, Sad, Surprise, Neutral). ამოცანა სრულდება 48x48 პიქსელის ზომის, შავ-თეთრ გამოსახულებებზე. ეს არის კლასიკური Computer Vision და Deep Learning-ის პრობლემა.
@@ -72,3 +74,4 @@ ML_assignment4/
 - **Precision, Sensitivity, Specificity, Accuracy და F1-Score**.
 
 - ყველა run, გრაფიკები და დატრენინგებული მოდელის არტეფაქტები (`.pth` ფაილები) შენახულია WandB-ზე. 
+- **[WandB პროექტი](https://wandb.ai/zkeke23-free-university-of-tbilisi-/fer-challenge)**.
