@@ -1,6 +1,6 @@
 # ML_assignment4
 
-- **[WandB პროექტი](https://wandb.ai/zkeke23-free-university-of-tbilisi-/fer-challenge)**.
+- **[WandB პროექტი](https://wandb.ai/zkeke23-free-university-of-tbilisi-/fer-challenge)**
 
 ## კონკურსის მიმოხილვა
 
