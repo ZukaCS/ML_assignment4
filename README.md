@@ -56,6 +56,7 @@ ML_assignment4/
 | **Deepest_BN_DR_AUG_CNN** | **67.46%** | 93.15% | **27.20%** |
 
 ![accuracies](img/accuracies.jpg)
+![train-validation accuracy gaps](img/accuracies_gap.jpg)
 ## Wandb tracking
 
 თითოეული ექსპერიმენტის მიმდინარეობისას ყველა epoch-ze, WandB-ში რეალურ დროში ილოგებოდა შემდეგი მეტრიკები:
